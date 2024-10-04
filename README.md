@@ -20,8 +20,9 @@ npm start
 ```
 PORT=8000
 JWT_SECRET=sagar123
-DB=mongodb://127.0.0.1:27017/palm
+DB=mongodb+srv://sagar:3J1VO39TJVOgg63Y@palm-db.zoqbh.mongodb.net/?retryWrites=true&w=majority&appName=palm-db
 
-#This is mongouri and please change it accordingly
+
+; This is mongouri and please change it accordingly
 
 ```
